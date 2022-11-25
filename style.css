@@ -1,0 +1,51 @@
+
+.corpo {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: 'Quicksand', sans-serif;
+	height: 100vh;
+	margin: 12;
+	background-color: #f9b1e1;
+}
+
+
+.p1 {
+	font-family: "Times New Roman", Times, serif;
+}
+
+
+body div img {
+	max-width: 600px;
+	border-radius: 50px;
+}
+
+.sec1 {
+	text-align: center;
+}
+
+
+.textt {
+	text-align: center;
+	color: #9723a7;
+	font-size: 2.0rem;
+
+}
+
+button {
+	border: 1;
+	font-size: 1.5rem;
+	font-weight: 700;
+	padding: 30px;
+	background: #ea7ac3;
+	color: #c56dba;
+	margin: 20px 0;
+	cursor: pointer;
+	transition: all 0.5s ease-in-out;
+	border-radius: 10px;
+	width: 20vh;
+}
+
+button:hover {
+	background: #ba21b0;
+}
